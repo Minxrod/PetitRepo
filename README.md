@@ -1,2 +1,2 @@
 # PetitRepo
-A repo for Petit Computer programs.
+PetitRepo is a WIP repo for Petit Computer programs and files.
