@@ -1,9 +1,9 @@
-Title,Author(s),Genre,Language(s),Status
-Chip's Challenge for Petit Computer,mystman12,Puzzle,English,Beta
-Infinite Office,mystman12,Arcade,English,Unknown
-Mega Man 2 PTC,Discostew,"Action, Platform",English,Stable
-Petitdriver Torso,mystman12,Tech Demo,None,Unknown
-Revenge of the Crazy Baby,mystman12,"Action, Shoot 'em Up",English,Stable
-SimpleC Interpreter,IAmAPersson,Tech Demo,English,Stable
-Village,Randomouscrap98,Simulation,English,Stable
-^^^^^^,TheV360,"Platform, Puzzle",English,Alpha
+Title,Author(s),Genre,Language(s),Status,Version
+Chip's Challenge for Petit Computer,mystman12,Puzzle,English,Beta,0.43
+Infinite Office,mystman12,Arcade,English,N/A,0.44
+Mega Man 2 PTC,Discostew,"Action, Platform",English,Stable,1.0.3
+Petitdriver Torso,mystman12,Tech Demo,N/A,N/A,N/A
+Revenge of the Crazy Baby,mystman12,"Action, Shoot 'em Up",English,Stable,1.20
+SimpleC Interpreter,IAmAPersson,Tech Demo,English,Stable,1.2
+Village,Randomouscrap98,Simulation,English,Stable,2.0.1
+^^^^^^,TheV360,"Platform, Puzzle",English,Alpha,0.6
