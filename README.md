@@ -17,7 +17,8 @@ The data of programs and files divided across several QR codes.
 There are several ways to import files from the repository into Petit Computer.
 
 ### Method 1: PetitImport (3DS, CFW Required)
-The easiest way to import files directly into Petit Computer's save file is using PetitImport, a GodMode9 script.
+The easiest way to import files directly into Petit Computer's save file is by using PetitImport, a GodMode9 script.
+
 On your PC:
 * Make sure you have [the latest version of GodMode9](https://github.com/d0k3/GodMode9/releases/latest).
 * Make sure you have [the latest version of PetitImport](https://github.com/HTV04/PTCImport/releases/latest).
