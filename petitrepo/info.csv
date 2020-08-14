@@ -1,15 +1,19 @@
-Title,Contributor(s),Type,Genre(s),Language(s),Status,Version
-Chip's Challenge for Petit Computer,mystman12,Games,Puzzle,English,Beta,0.43
-Infinite Office,mystman12,Games,Arcade,English,N/A,0.44
-Klondike (Solitaire),Randomouscrap98,Games,Strategy,English,Stable,1.2.2
-Mario Maker PTC,"Berneyvonbean, Commander Labs",Games,"Action, Adventure, Ports",English,Stable,1.0.6
-Mega Man 2 PTC,Discostew,Games,"Action, Platform",English,Stable,1.0.3
-Minecraft DS,"IAmAPersson, LeviCelJir, Calc84maniac, Randomouscrap98, et al.",Games,Adventure,"English, German",Beta,2.0 Prerelease 2
-Petit Forest,"Abgar, Randomouscrap98",Games,Strategy,English,Stable,1.3.1
-Petit Smash Bros,GimmeMoreCoinz,Games,Action,English,Alpha,1.2 LITE
-Petit Sudoku,Abgar,Games,Puzzle,English,Stable,2.0.0
-Raycaster,Calc84maniac,Tools,Simulation,English,Stable,1
-Revenge of the Crazy Baby,mystman12,Games,"Action, Shoot 'em Up",English,Stable,1.2
-SimpleC Interpreter,IAmAPersson,Tools,Tech Demo,English,Stable,1.2
-Village,Randomouscrap98,Games,Simulation,English,Stable,2.0.1
-^^^^^^,TheV360,Games,"Platform, Puzzle",English,Alpha,0.6
+Title,Translated Title (DeepL),A.K.A.,Contributor(s),Type,Genre(s),Language(s),Status,Version
+高機能キャラクターエディター,Advanced Character Editor,UX_CHRED,uxtuno_,Tools,Graphics,Japanese,N/A,1.5
+Chip's Challenge for Petit Computer,N/A,N/A,mystman12,Games,Puzzle,English,Beta,0.43
+Flappy Bird - PTC Edititon,N/A,N/A,Bluerobin2,Games,"Action, Arcade, Racing",English,Stable,1.0.0
+Infinite Office,N/A,N/A,mystman12,Games,Arcade,English,N/A,0.44
+Klondike (Solitaire),N/A,N/A,Randomouscrap98,Games,Strategy,English,Stable,1.2.2
+MILOCALC Spreadsheet Program,N/A,N/A,MiloTsukroff,Tools,"Tech Demo, Productivity",English,Stable,4.9
+Mario Maker PTC,N/A,N/A,"Berneyvonbean, Commander Labs",Games,"Action, Adventure, Ports",English,Stable,1.0.6
+Mega Man 2 PTC,N/A,N/A,Discostew,Games,"Action, Platform",English,Stable,1.0.3
+Minecraft DS,N/A,N/A,"IAmAPersson, LeviCelJir, Calc84maniac, Randomouscrap98, et al.",Games,Adventure,"English, German",Beta,2.0 Prerelease 2
+Petit Forest,N/A,N/A,"Abgar, Randomouscrap98",Games,Strategy,English,Stable,1.3.1
+Petit Smash Bros,N/A,N/A,GimmeMoreCoinz,Games,Action,English,Alpha,1.2 LITE
+Petit Sudoku,N/A,N/A,Abgar,Games,Puzzle,English,Stable,2.0.0
+Petitcom Music Workstation,N/A,PX7,kt.software,Tools,"Music, Media Player","Engish, Japanese",N/A,1.0.1
+Raycaster,N/A,N/A,Calc84maniac,Tools,Simulation,English,Stable,1.0
+Revenge of the Crazy Baby,N/A,N/A,mystman12,Games,"Action, Shoot 'em Up",English,Stable,1.20
+SimpleC Interpreter,N/A,N/A,IAmAPersson,Tools,Tech Demo,English,Stable,1.2
+Village,N/A,N/A,Randomouscrap98,Games,Simulation,English,Stable,2.0.1
+^^^^^^,N/A,Caret6,TheV360,Games,"Platform, Puzzle",English,Alpha,0.6
