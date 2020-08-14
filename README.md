@@ -29,7 +29,7 @@ On your PC:
 * Choose "PetitImport."
 * If any non-error prompts appear on screen (such as one about making a backup of your save file), press A to continue (if you get an error, [make an issue](https://github.com/HTV04/PTCImport/issues/new/choose) describing the error).
 * When on the menu screen, choose "Quick Import."
-* A warning will appear on screen mentioning trusted files. Press A to continue.
+* A warning will appear on-screen mentioning trusted files. Press A to continue.
 * When the process is finished, exit out of the menu, relock permissions, and when you're back on the root menu, press START to reboot.
 * Open Petit Computer.
 Your imported files should be present!
