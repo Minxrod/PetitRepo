@@ -2,7 +2,7 @@
 PetitRepo is a repository for Petit Computer programs and files.
 
 ## Formats
-Sets of programs and other files (referred to as "projects," akin to later versions of SmileBASIC) are given respective titles, and are available in three formats:
+Sets of programs and other files (referred to as "projects," akin to later versions of SmileBASIC) are given respective titles and are available in three formats:
 
 ### PTC
 Exported versions of the programs and files, given a 36-byte header with important metadata.
