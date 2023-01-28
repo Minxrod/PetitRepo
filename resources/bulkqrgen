@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo $PTCTOOLS
+if [ -z ${PTCTOOLS:+x} ]
+then
+	echo "Set PTCTOOLS variable first!"
+	echo "export PTCTOOLS=<path to ptctools.py>"
+	exit
+fi
+
+for src in ./*/ptc/*
+do
+	echo $src
+	qrd=${src/ptc/qr}
+	qrd=${qrd%.PTC}
+	qrm=${qrd%/*}
+	mkdir $qrm
+	$PTCTOOLS qr "$src" --merge --output "$qrd"
+	rm "$qrd#qr"*
+done
