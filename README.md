@@ -44,11 +44,12 @@ This method doesn't require a 3DS or CFW, but it takes much, much longer. If you
 
 On your PC:
 * On the repository (either online or via the offline package), navigate to your project of choice and open the "qr" folder.
-* Open the "qr" folder.
+* Open the image(s) for the file(s) you want to download
 
 On your DSi/3DS:
 * Open Petit Computer.
-* WIP
+* Select File Management, then select Read QR Codes
+* Scan QR codes on PC
 
 Repeat this process for each file in the "qr" folder:
 * On your PC, open the PNG for the file, which contains the QR codes you need to scan.
